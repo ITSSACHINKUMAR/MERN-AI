@@ -64,7 +64,9 @@ npm start
 ```
 Usage
 Once both the backend and frontend are running, open your browser and navigate to http://localhost:3000 to interact with the AI-powered interface.
-📄 License
+
+
+### License
 Distributed under the MIT License. See LICENSE for more information.
 
 Maintained by ITSSACHINKUMAR
